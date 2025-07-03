@@ -58,7 +58,7 @@ Our name, inspired by ancient ideals of nobility and excellence, reflects our co
 ## 👥 Founders
 
 - **[@brunoliratm](https://github.com/brunoliratm)** — Software Developer & Product Visionary
-- **[@Paulo-Araujo-Jr](ttps://github.com/Paulo-Araujo-Jr)** — Software Developer
+- **[@Paulo-Araujo-Jr](https://github.com/Paulo-Araujo-Jr)** — Software Developer
 
 </br>
 
