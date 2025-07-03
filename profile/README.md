@@ -1,6 +1,10 @@
+<div align="center">
+
 # AETHELON
 
 **Where Purpose Meets Technology**
+
+</div>
 
 </br>
 
@@ -41,8 +45,8 @@ Our name, inspired by ancient ideals of nobility and excellence, reflects our co
 
 ## 👥 Founders
 
-- **Bruno Magno[@brunoliratm]** — Software Developer & Product Visionary
-- **Paulo de Araujo[@Paulo-Araujo-Jr]** — Software Developer
+- **[@brunoliratm]** — Software Developer & Product Visionary
+- **[@Paulo-Araujo-Jr]** — Software Developer
 
 </br>
 
